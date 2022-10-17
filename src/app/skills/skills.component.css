@@ -1,0 +1,27 @@
+.card{
+  margin-top: 50px;
+margin-left: 50px;
+margin-right: 50px;
+
+}
+.card-title{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  font-weight: 800;
+}
+.card:hover{
+  color: black;
+
+}
+.text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  font-weight: 800;
+  text-align: center;
+  margin-top: 30px;
+}
+.card:hover{
+  box-shadow:10px 10px 10px #cccccc;
+  border: 1px solid black;
+  background-color: cornsilk;
+}

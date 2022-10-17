@@ -1,0 +1,22 @@
+.text{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+  font-size: xx-large;
+  margin-top: 20px;
+}
+.card{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+}
+.card-title{
+  color: black;
+}
+.container{
+  display:flex;
+  justify-content:center;
+
+}
+.ul.li{
+  text-align: left;
+}
